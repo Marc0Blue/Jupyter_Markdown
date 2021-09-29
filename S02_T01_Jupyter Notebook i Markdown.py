@@ -10,14 +10,12 @@ y = 4
 z = x+y
 print(z)
 
-
 # ## 2 - Resta
 # Variables int
 x = 5
 y = 10
 z = x - y
 print(z)
-
 
 # ## 3 - Multiplicación
 # Variable float
@@ -26,14 +24,12 @@ y = 7
 z = x * y
 print (z)
 
-
 # ## 4 - División
 # Variable float
 x = 9
 y = 8
 z = x / y
 print(z)
-
 
 # # Transformaciones
 # De float a int
@@ -44,7 +40,6 @@ print(x)
 # De String a float
 a = "35.5"
 print(float(a))
-
 
 # # Operaciones con Strings
 # ## Lógica con String
@@ -68,11 +63,9 @@ x = 10
 y = 11
 print(bool(x==y))
 
-
 a = 5
 b = 10
 print(bool(a < b))
-
 
 q = 0
 print(bool(q)) 
